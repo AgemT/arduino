@@ -1,4 +1,5 @@
 # Roteiro de treinamento
+	~~This was mistaken text~~
 ~~ - Ambiente do Arduíno (Arduíno) ~~
 ~~ - Arduíno Entrada e Saída (2 semanas) ~~
 - Arduíno: Sensores

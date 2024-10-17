@@ -1,11 +1,10 @@
-# Roteiro de treinamento
-	~~This was mistaken text~~
-~~ - Ambiente do Arduíno (Arduíno) ~~
-~~ - Arduíno Entrada e Saída (2 semanas) ~~
-- Arduíno: Sensores
-- Arduíno: Comunicação Serial e Bluetooth
-- Arduíno: Temporizador e Interrupção
-- Arduíno: Ethernet
-- Arduíno: MQTT
-- ESP8266 Laboratórios
-- ESP32 Laboratórios
+# Roteiro de Treinamento
+~~- Ambiente do Arduino~~  
+~~- Arduino: Entrada e Saída (2 semanas)~~  
+- Arduino: Sensores
+- Arduino: Comunicação Serial e Bluetooth
+- Arduino: Temporizador e Interrupção
+- Arduino: Ethernet
+- Arduino: MQTT
+- ESP8266: Laboratórios
+- ESP32: Laboratórios

@@ -1,7 +1,7 @@
 # Roteiro de Treinamento
 ~~- Ambiente do Arduino~~  
 ~~- Arduino: Entrada e Saída (2 semanas)~~  
-- Arduino: Sensores
+- Arduino: Sensores ** preciso de ajuda com o de temp **
 - Arduino: Comunicação Serial e Bluetooth
 - Arduino: Temporizador e Interrupção
 - Arduino: Ethernet
